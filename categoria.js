@@ -20,5 +20,5 @@ function buscar(){
 module.exports = {
     cadastrar,
     buscar,
-    // comentario
+    // comentario mudado
 }
